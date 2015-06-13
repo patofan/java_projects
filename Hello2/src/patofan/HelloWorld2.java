@@ -3,7 +3,7 @@ package patofan;
 public class HelloWorld2 {
 
 	public void sayHello() {
-		System.out.println( "Hello world 2 vvvvv");
+		System.out.println( " aHello world 2 vfffffffvvvv");
 	}
 	
 	
